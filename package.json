@@ -1,0 +1,45 @@
+{
+    "name": "pretty-dark-thesis",
+    "displayName": "Pretty Dark Thesis",
+    "description": "Pleasing Dark Theme to code better :)",
+    "version": "0.0.1",
+
+    "author": {
+        "name": "Prathamesh Tamte"
+    },
+
+    "keywords": [
+        "Dark",
+        "Dark Theme",
+        "Best Theme",
+        "Pretty Themes",
+        "Dark VS Theme",
+        "PT",
+        "Themes",
+        "Awesome Themes",
+        "light dark",
+        "grey",
+        "gray"
+    ],
+
+    "icon": "icon/Dark_Thesis.png",
+
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+
+    "categories": [
+        "Themes"
+    ],
+
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pretty Dark Thesis",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Pretty Dark Thesis-color-theme.json"
+            }
+        ]
+    },
+    "contributors": ["Prathamesh Tamte"]
+}
