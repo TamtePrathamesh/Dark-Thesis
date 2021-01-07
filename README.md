@@ -11,4 +11,6 @@
 
 ![WelcomeScreen](https://raw.githubusercontent.com/TamtePrathamesh/Dark-Thesis/master/Snippets/CodeArea.PNG)
 
+![WelcomeScreen](https://raw.githubusercontent.com/TamtePrathamesh/Dark-Thesis/master/Snippets/FullView.PNG)
+
 **Enjoy :)**
