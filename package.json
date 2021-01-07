@@ -8,6 +8,12 @@
         "name": "Prathamesh Tamte"
     },
 
+    "publisher": "Prathamesh9402",
+
+    "repository": {
+        "url": "https://github.com/TamtePrathamesh/Dark-Thesis"
+    },
+ 
     "keywords": [
         "Dark",
         "Dark Theme",
@@ -25,7 +31,7 @@
     "icon": "icon/Dark_Thesis.png",
 
     "engines": {
-        "vscode": "^1.52.0"
+        "vscode": "^1.0.0"
     },
 
     "categories": [

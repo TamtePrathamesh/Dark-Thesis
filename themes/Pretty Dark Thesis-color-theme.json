@@ -108,6 +108,13 @@
 			}
 		},
 		{
+			"name": "modified_RetunOrFlowStatement",
+			"scope": ["keyword.control.export", "keyword.control.flow", "keyword.control.default" ,"entity.other.attribute-name"],
+			"settings": {
+				"fontStyle": "italic",
+			}
+		},
+		{
 			"name": "Comment",
 			"scope": [
 				"comment",

@@ -1,9 +1,10 @@
-# README
-## Pretty Dark Thesis VS Theme Extension"
+# Pretty Dark Thesis
+
+## Pleasing Dark Theme which will make your coding experience better
+
+### Snippets:
 
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![STACKr Code Font Examples](https://raw.githubusercontent.com/codeSTACKr/codestackr-vscode-theme/master/images/stackr-code-font.png)
 
-**Enjoy!**
+**Enjoy :)**
