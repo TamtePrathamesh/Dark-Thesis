@@ -7,10 +7,10 @@
 
 ![WelcomeScreen](https://raw.githubusercontent.com/TamtePrathamesh/Dark-Thesis/master/Snippets/WelcomeScreen.PNG)
 
-![WelcomeScreen](https://raw.githubusercontent.com/TamtePrathamesh/Dark-Thesis/master/Snippets/SettingView.PNG)
+![SettingView](https://raw.githubusercontent.com/TamtePrathamesh/Dark-Thesis/master/Snippets/SettingView.PNG)
 
-![WelcomeScreen](https://raw.githubusercontent.com/TamtePrathamesh/Dark-Thesis/master/Snippets/CodeArea.PNG)
+![CodeArea](https://raw.githubusercontent.com/TamtePrathamesh/Dark-Thesis/master/Snippets/CodeArea.PNG)
 
-![WelcomeScreen](https://raw.githubusercontent.com/TamtePrathamesh/Dark-Thesis/master/Snippets/FullView.PNG)
+![FullView](https://raw.githubusercontent.com/TamtePrathamesh/Dark-Thesis/master/Snippets/FullView.PNG)
 
 **Enjoy :)**
