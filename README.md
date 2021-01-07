@@ -13,6 +13,6 @@
 
 ![FullView](https://raw.githubusercontent.com/TamtePrathamesh/Dark-Thesis/master/Snippets/FullView.PNG)
 
-![GIF1](https://raw.githubusercontent.com/TamtePrathamesh/Dark-Thesis/master/Snippets/Gif1.PNG)
+![GIF1](https://raw.githubusercontent.com/TamtePrathamesh/Dark-Thesis/master/Snippets/Gif1.gif)
 
 **Enjoy :)**
