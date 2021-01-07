@@ -5,6 +5,10 @@
 ### Snippets:
 
 
-![STACKr Code Font Examples](https://raw.githubusercontent.com/codeSTACKr/codestackr-vscode-theme/master/images/stackr-code-font.png)
+![WelcomeScreen](https://raw.githubusercontent.com/TamtePrathamesh/Dark-Thesis/master/Snippets/WelcomeScreen.PNG)
+
+![WelcomeScreen](https://raw.githubusercontent.com/TamtePrathamesh/Dark-Thesis/master/Snippets/SettingView.PNG)
+
+![WelcomeScreen](https://raw.githubusercontent.com/TamtePrathamesh/Dark-Thesis/master/Snippets/CodeArea.PNG)
 
 **Enjoy :)**
