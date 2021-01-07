@@ -43,7 +43,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Pretty Dark Thesis",
+                "label": "Dark Thesis",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Pretty Dark Thesis-color-theme.json"
             }
