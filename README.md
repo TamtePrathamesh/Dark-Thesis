@@ -9,10 +9,11 @@
 
 ![SettingView](https://raw.githubusercontent.com/TamtePrathamesh/Dark-Thesis/master/Snippets/SettingView.PNG)
 
+![GIF1](https://raw.githubusercontent.com/TamtePrathamesh/Dark-Thesis/master/Snippets/Gif1.gif)
+
 ![CodeArea](https://raw.githubusercontent.com/TamtePrathamesh/Dark-Thesis/master/Snippets/CodeArea.PNG)
 
 ![FullView](https://raw.githubusercontent.com/TamtePrathamesh/Dark-Thesis/master/Snippets/FullView.PNG)
 
-![GIF1](https://raw.githubusercontent.com/TamtePrathamesh/Dark-Thesis/master/Snippets/Gif1.gif)
 
 **Enjoy :)**
