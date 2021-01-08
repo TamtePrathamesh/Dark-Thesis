@@ -8,19 +8,13 @@
 ## Pleasing Dark Theme which will make your coding experience better
 
 ## Steps for Theme Installation :
+1. In Your VS code editor.
+2. Click on **Settings** ⚙️ icon in the side bar.
+3. Search for **Pretty Dark Thesis**, & install it.
+4. Vola!! That's It you are done.
+5. Enjoy!!! ⭐
 
-If you have not installed the [VS Code Editor](https://code.visualstudio.com/) yet then first you need to install it before installing this theme.
-
-1. Launch VS code editor.
-2. Click on **Extension** ⚙️ icon in the side bar.
-3. Search for **Pretty Dark Thesis**, install theme
-4. Click on **Install** button to install it.
-5. Click Reload to reload your editor. :arrows_counterclockwise:
-6. Open command palette `ctrl+shift+p` and search for **Dark Thesis**.
-7. Select the theme and go.
-8. Enjoy!!! 🎉
-
-## Screenshots:
+## Screenshots 👌:
 
 ![GIF1](https://raw.githubusercontent.com/TamtePrathamesh/Dark-Thesis/master/Snippets/Gif1.gif)
 
@@ -39,4 +33,4 @@ If you have not installed the [VS Code Editor](https://code.visualstudio.com/) y
 All relevant changes will be maintained in `CHANGELOG.md` file.
 
 
-**Enjoy :) 🎨 🎉**
+**Enjoy :) 🎨 👍**
