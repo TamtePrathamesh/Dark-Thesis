@@ -1,12 +1,13 @@
 # Pretty Dark Thesis 🎨
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/PrettyDarkThesis.pretty-dark-thesis.svg?subject=PrettyDarkThesis)](https://marketplace.visualstudio.com/items?itemName=PrettyDarkThesis.pretty-dark-thesis)
+[![GitHub](https://img.shields.io/github/issues/TamtePrathamesh/Dark-Thesis.svg?style=flat-square)](https://github.com/TamtePrathamesh/Dark-Thesis/issues/)
 [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 
 
 ## Pleasing Dark Theme which will make your coding experience better
 
-## Steps for Theme Installation :ribbon: :gift:
+## Steps for Theme Installation :
 
 If you have not installed the [VS Code Editor](https://code.visualstudio.com/) yet then first you need to install it before installing this theme.
 
@@ -35,7 +36,7 @@ If you have not installed the [VS Code Editor](https://code.visualstudio.com/) y
 
 ## Changelog
 
-All notable or relevant changes to the "codeglace-theme" extension will be documented in this `CHANGELOG.md` file.
+All relevant changes will be maintained in `CHANGELOG.md` file.
 
 
 **Enjoy :) 🎨 🎉**
